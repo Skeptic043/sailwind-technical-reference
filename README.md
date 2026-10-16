@@ -18,6 +18,12 @@ Browse by game concept, then follow the focused articles into related systems. T
 - [Profiles](docs/research/profiles/README.md): Sailwind profile, player and manager log origins.
 - [Compatibility](docs/research/compatibility/README.md): The Radio and NLayer package case, with a link to the general Unity validation method.
 
+The articles lead with the technical answer and retain the classes, methods and data relationships needed to understand it. Version or evidence notes appear where they materially change how a claim should be read. Detailed investigations, tools, hashes, chronology and project-specific design normally remain in the private canonical research records unless one of those details is the article's subject.
+
+For reusable engine and loader findings, see [Unity modding reference](https://github.com/Skeptic043/unity-modding-reference).
+
+To propose a change, see [Contributing to the public reference](CONTRIBUTING.md).
+
 ## Community resources
 
 These external community resources complement this repository. Check each project's documentation and releases for its current scope and compatibility.
@@ -31,12 +37,6 @@ These external community resources complement this repository. Check each projec
 - [Sailwind Modding Notes](https://github.com/ai-pop/sailwind-modding-notes): Collection of Sailwind reverse-engineering and technical research notes, with English translations of the original Russian notes.
 - [Custom Island API](https://github.com/winterspices/CustomIslandAPI): API for mods that add custom islands and scenery.
 - [Coordinate Viewer](https://github.com/AppSailwindMods/CoordinateViewer): Utility for viewing and exporting Sailwind world coordinates for use with the interactive map.
-
-The articles lead with the technical answer and retain the classes, methods and data relationships needed to understand it. Version or evidence notes appear where they materially change how a claim should be read. Detailed investigations, tools, hashes, chronology and project-specific design normally remain in the private canonical research records unless one of those details is the article's subject.
-
-For reusable engine and loader findings, see [Unity modding reference](https://github.com/Skeptic043/unity-modding-reference).
-
-To propose a change, see [Contributing to the public reference](CONTRIBUTING.md).
 
 ## Licensing
 
