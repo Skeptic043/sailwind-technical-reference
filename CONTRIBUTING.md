@@ -2,6 +2,14 @@
 
 Contributions should make a bounded Sailwind finding easier to understand and verify. An article should identify the subject, explain the technical behavior directly and retain the relationships or qualifications that matter to a reader.
 
+## Contribution and publication gate
+
+All new or changed knowledge must be captured and reviewed in the owning private evidence base before public wording is drafted or merged here. Research work or a private research update does not authorize a public-reference edit.
+
+Every change to this repository must be prepared on a branch other than `main` and submitted through a pull request. Do not push edits directly to `main`. A contribution can be merged only after `@Skeptic043` explicitly approves the public wording and scope. External contributors may provide public sources and reproduction details in their pull request, but the maintainer records accepted evidence in the private base before approval.
+
+Public refreshes are curated translations of selected evidence, not automatic copies of the private research tree. Review and merge them only when the public explanation is accurate, appropriately scoped and ready for readers.
+
 ## Choose the owning repository
 
 Put Sailwind systems, game-specific behavior and Sailwind mod cases in this repository. Put reusable Unity, BepInEx, Harmony, packaging and inspection methods in [Unity modding reference](https://github.com/Skeptic043/unity-modding-reference). Link the general method to the Sailwind case instead of maintaining two versions of the same explanation.
