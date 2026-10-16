@@ -1,6 +1,6 @@
 # Compatibility
 
-The general [compatibility evidence levels](https://github.com/Skeptic043/unity-modding-knowledge/blob/main/topics/validation/compatibility-evidence-layers.md) separate package completeness, loader acceptance, static reachability and live behavior. The article below documents one bounded Sailwind packaging failure.
+The general [compatibility evidence levels](https://github.com/Skeptic043/unity-modding-reference/blob/main/topics/validation/compatibility-evidence-layers.md) separate package completeness, loader acceptance, static reachability and live behavior. The article below documents one bounded Sailwind packaging failure.
 
 [Sailwind reference](../../../README.md)
 

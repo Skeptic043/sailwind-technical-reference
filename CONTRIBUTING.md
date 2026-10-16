@@ -4,7 +4,7 @@ Contributions should make a bounded Sailwind finding easier to understand and ve
 
 ## Choose the owning repository
 
-Put Sailwind systems, game-specific behavior and Sailwind mod cases in this repository. Put reusable Unity, BepInEx, Harmony, packaging and inspection methods in [Unity modding knowledge](https://github.com/Skeptic043/unity-modding-knowledge). Link the general method to the Sailwind case instead of maintaining two versions of the same explanation.
+Put Sailwind systems, game-specific behavior and Sailwind mod cases in this repository. Put reusable Unity, BepInEx, Harmony, packaging and inspection methods in [Unity modding reference](https://github.com/Skeptic043/unity-modding-reference). Link the general method to the Sailwind case instead of maintaining two versions of the same explanation.
 
 Extend an existing canonical article when new evidence answers the same question. Add a new page when it answers a distinct durable question or when one existing page combines independently useful systems that need separate ownership. Merge a very short page when it does not stand on its own, and remove a page from the reader-facing selection when it is redundant or mismatched. Preserve useful dated investigations as source records rather than deleting them or turning them into competing current explanations.
 

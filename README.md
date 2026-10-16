@@ -20,7 +20,7 @@ Browse by game concept, then follow the focused articles into related systems. T
 
 The articles lead with the technical answer and retain the classes, methods and data relationships needed to understand it. Version or evidence notes appear where they materially change how a claim should be read. Detailed investigations, tools, hashes, chronology and project-specific design normally remain in the private canonical research records unless one of those details is the article's subject.
 
-For reusable engine and loader findings, see [Unity modding knowledge](https://github.com/Skeptic043/unity-modding-knowledge).
+For reusable engine and loader findings, see [Unity modding reference](https://github.com/Skeptic043/unity-modding-reference).
 
 To propose a change, see [Contributing to the public reference](CONTRIBUTING.md).
 

@@ -12,7 +12,7 @@ In this Windows case:
 
 A save-directory override changes save operations. It does not by itself redirect Unity's player log. Proton and other platforms can use different layouts, so recheck their platform helpers instead of copying Windows assumptions.
 
-For the general method of matching timestamps, startup markers and profile identity before combining logs, see [Compatibility evidence layers](https://github.com/Skeptic043/unity-modding-knowledge/blob/main/topics/validation/compatibility-evidence-layers.md).
+For the general method of matching timestamps, startup markers and profile identity before combining logs, see [Compatibility evidence layers](https://github.com/Skeptic043/unity-modding-reference/blob/main/topics/validation/compatibility-evidence-layers.md).
 
 ## Selected diagnostic exports
 
